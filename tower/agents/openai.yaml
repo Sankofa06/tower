@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tower"
+  short_description: "Portfolio control and talent routing"
+  default_prompt: "Use $tower to frame this work, route talent, and establish phase gates before execution."
